@@ -4,18 +4,20 @@ import ResultDisplay from "./components/ResultDisplay";
 import html2canvas from "html2canvas";
 
 const images = [
-  "/images/img1.jpg",
-  "/images/img2.jpg",
-  "/images/img3.jpg",
-  "/images/img4.jpg",
-  "/images/img5.jpg",
-  "/images/img6.jpg",
-  "/images/img7.jpg",
-  "/images/img8.jpg",
-  "/images/img9.jpg",
-  "/images/img10.jpg",
-  "/images/img12.jpg",
-  "/images/img11.jpg",
+  "/public/images/img1.jpg",
+  "/public/images/img2.jpg",
+  "/public/images/img3.jpg",
+  "/public/images/img4.jpg",
+  "/public/images/img5.jpg",
+  "/public/images/img6.jpg",
+  "/public/images/img7.jpg",
+  "/public/images/img8.jpg",
+  "/public/images/img9.jpg",
+  "/public/images/img10.jpg",
+  "/public/images/img12.jpg",
+  "/public/images/img11.jpg",
+  "/public/images/img13.jpg",
+  "/public/images/img14.jpg",
 ];
 
 function App() {
